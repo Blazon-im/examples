@@ -1,0 +1,11 @@
+com/blazon/resourceadapter/operations/CreateAccount.class
+com/blazon/resourceadapter/operations/RemoveEntitlement.class
+com/blazon/resourceadapter/operations/RevokeEntitlement.class
+com/blazon/resourceadapter/operations/ActivateAccount.class
+com/blazon/resourceadapter/operations/ChangePassword.class
+com/blazon/resourceadapter/operations/InactivateAccount.class
+com/blazon/resourceadapter/operations/UpdateAccount.class
+com/blazon/resourceadapter/operations/RevokeAccount.class
+com/blazon/resourceadapter/operations/UpdateEntitlement.class
+com/blazon/resourceadapter/operations/CreateEntitlement.class
+com/blazon/resourceadapter/operations/GrantEntitlement.class
